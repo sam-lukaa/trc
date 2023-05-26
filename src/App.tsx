@@ -1,13 +1,3 @@
-import React from 'react'
-import logo from './logo.svg'
-import './App.css'
+import { Home } from 'application/home'
 
-function App() {
-  return (
-    <>
-      <h1 className="text-red-500">Hello world</h1>
-    </>
-  )
-}
-
-export default App
+export default Home
